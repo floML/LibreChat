@@ -1,0 +1,3 @@
+[submodule "dependencies/rag_api"]
+	path = dependencies/rag_api
+	url = https://github.com/floML/rag_api
